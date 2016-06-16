@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CA9DA60A0B4C8E244B2E5F9409B60ED3D322DCEB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CA9DA60A0B4C8E244B2E5F9409B60ED3D322DCEB" : 0,
+    "8456D4479BCBF57F227C0DCD773E3570D533A1F3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "21779556-5476-493A-A992-93C83E674F0B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CA9DA60A0B4C8E244B2E5F9409B60ED3D322DCEB" : "SHPieChartView-master\/",
+    "8456D4479BCBF57F227C0DCD773E3570D533A1F3" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SHPieChartView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SHPieChartView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/prosenjitgoswami-cts\/ZIP.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8456D4479BCBF57F227C0DCD773E3570D533A1F3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/prosenjitgoswami-cts\/SHPieChartView-master.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CA9DA60A0B4C8E244B2E5F9409B60ED3D322DCEB"
+    }
+  ]
+}
